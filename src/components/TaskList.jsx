@@ -37,5 +37,3 @@ TaskList.propTypes = {
   onToggleCompleteCallback: PropTypes.func.isRequired,
   onDeleteCallback: PropTypes.func.isRequired,
 };
-
-export default TaskList;
